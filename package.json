@@ -4,8 +4,8 @@
   "description": "Mock API using json-server for Device CRM Dashboard",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 8080",
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "start": "json-server --watch db.json --port ${PORT:-8080}",
+  "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["json-server", "mock-api", "device-crm"],
   "author": "Swaraj Kumar",
