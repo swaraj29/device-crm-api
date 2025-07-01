@@ -1,0 +1,17 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "type": "ECG Monitor",
+      "facility": "Apollo Hospital",
+      "status": "Online",
+      "battery": 87,
+      "lastServiceDate": "2024-06-01",
+      "amcStatus": "Active"
+    }
+  ],
+  "installations": [],
+  "services": [],
+  "contracts": [],
+  "alerts": []
+}

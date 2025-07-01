@@ -1,0 +1,17 @@
+{
+  "name": "device-crm-api",
+  "version": "1.0.0",
+  "description": "Mock API using json-server for Device CRM Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["json-server", "mock-api", "device-crm"],
+  "author": "Swaraj Kumar",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
