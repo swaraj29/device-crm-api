@@ -57,6 +57,61 @@
   ],
   "installations": [],
   "services": [],
-  "contracts": [],
+ "contracts": [
+  {
+    "id": 1,
+    "deviceName": "ECG Monitor",
+    "serialNumber": "ECG-001",
+    "facility": "Apollo Hospital",
+    "contractType": "AMC",
+    "startDate": "2024-01-01",
+    "expiryDate": "2025-01-01"
+  },
+  {
+    "id": 2,
+    "deviceName": "Ventilator",
+    "serialNumber": "VENT-002",
+    "facility": "AIIMS",
+    "contractType": "CMC",
+    "startDate": "2023-07-01",
+    "expiryDate": "2024-07-01"
+  },
+  {
+    "id": 3,
+    "deviceName": "Infusion Pump",
+    "serialNumber": "INF-003",
+    "facility": "Fortis",
+    "contractType": "AMC",
+    "startDate": "2023-10-10",
+    "expiryDate": "2024-10-10"
+  },
+  {
+    "id": 4,
+    "deviceName": "Defibrillator",
+    "serialNumber": "DEF-004",
+    "facility": "Medanta",
+    "contractType": "CMC",
+    "startDate": "2024-03-01",
+    "expiryDate": "2025-03-01"
+  },
+  {
+    "id": 5,
+    "deviceName": "X-Ray Machine",
+    "serialNumber": "XRAY-005",
+    "facility": "Apollo Hospital",
+    "contractType": "AMC",
+    "startDate": "2023-06-15",
+    "expiryDate": "2024-06-15"
+  },
+  {
+    "id": 6,
+    "deviceName": "Patient Monitor",
+    "serialNumber": "PMON-006",
+    "facility": "AIIMS",
+    "contractType": "AMC",
+    "startDate": "2024-02-01",
+    "expiryDate": "2025-02-01"
+  }
+],
   "alerts": []
 }
