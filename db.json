@@ -8,6 +8,51 @@
       "battery": 87,
       "lastServiceDate": "2024-06-01",
       "amcStatus": "Active"
+    },
+    {
+      "id": 2,
+      "type": "Ventilator",
+      "facility": "AIIMS",
+      "status": "Offline",
+      "battery": 65,
+      "lastServiceDate": "2024-05-15",
+      "amcStatus": "Active"
+    },
+    {
+      "id": 3,
+      "type": "Infusion Pump",
+      "facility": "Fortis",
+      "status": "Maintenance",
+      "battery": 42,
+      "lastServiceDate": "2024-06-10",
+      "amcStatus": "Inactive"
+    },
+    {
+      "id": 4,
+      "type": "Defibrillator",
+      "facility": "Medanta",
+      "status": "Online",
+      "battery": 90,
+      "lastServiceDate": "2024-07-01",
+      "amcStatus": "Active"
+    },
+    {
+      "id": 5,
+      "type": "X-Ray Machine",
+      "facility": "Apollo Hospital",
+      "status": "Offline",
+      "battery": 73,
+      "lastServiceDate": "2024-05-28",
+      "amcStatus": "Inactive"
+    },
+    {
+      "id": 6,
+      "type": "Patient Monitor",
+      "facility": "AIIMS",
+      "status": "Online",
+      "battery": 81,
+      "lastServiceDate": "2024-06-20",
+      "amcStatus": "Active"
     }
   ],
   "installations": [],
